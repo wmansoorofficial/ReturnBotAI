@@ -11,6 +11,7 @@ ReturnBotAI is also grounded in an **external knowledge base**, enabling it to l
 - **MCP Server** (developed in Java)  
 - **Google Vertex AI**  
 - **Gemini Model 2.5 Pro**
+
 ## Setup Instructions
 
 ### Prerequisites
@@ -67,3 +68,9 @@ This disables CORS restrictions.
 
 Use the custom UI available here:  
 https://github.com/wmansoorofficial/ReturnBotAI-UI
+
+
+## Demo
+
+[![Screenshot 2026-02-23 155129](https://github.com/user-attachments/assets/7fbae9e7-64fc-491b-a0f9-48704bc38849)](https://drive.google.com/file/d/10vdd_eDjxMQyR0-c1QzlcfU4FnqMnAUP/view?usp=sharing)
+
