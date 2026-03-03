@@ -56,8 +56,6 @@ adk web
 
 This starts the ADK built-in web interface.
 
----
-
 #### Option 2 — API Server with Custom UI
 
 ```bash
